@@ -8,17 +8,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/ProjectsByJackHe/Sudoku-Solver.git"
+     
     },
     "keywords": [
       "sudoku",
       "genrec",
       "backtracking"
     ],
-    "author": "Jack He",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ProjectsByJackHe/Sudoku-Solver/issues"
-    },
-    "homepage": "https://github.com/ProjectsByJackHe/Sudoku-Solver#readme"
+    "author": "Satyam Mishra",
+    "license": "NSUT
+    ,
+    
   }
